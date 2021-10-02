@@ -1,2 +1,2 @@
 # CampGrounds
-A NodeJS mini project.
+Web Technologies-II Project, V Semester, Camping Grounds Website.
